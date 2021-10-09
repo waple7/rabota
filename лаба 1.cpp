@@ -2,9 +2,9 @@
 
 int main()
 {
-    char simvol;
-    scanf_s("%c", &simvol);
-    printf("%c\n", simvol);
+    char symbol;
+    scanf_s("%c", &symbol);
+    printf("%c\n", symbol);
     {
         float var;
         scanf_s("%f", &var);
