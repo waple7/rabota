@@ -13,7 +13,7 @@ int main()
     }
     else
     {
-        printf("net kornei");
+        printf("not decision");
     }
     printf("    ");
     if ((b2 + 2) > 0)
@@ -23,7 +23,7 @@ int main()
     }
     else
     {
-        printf("net kornei");
+        printf("not decision");
     }
     return 0;
 }
